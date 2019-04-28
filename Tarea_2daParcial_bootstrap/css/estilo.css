@@ -1,0 +1,18 @@
+.row{
+	text-align: auto;
+
+}
+img{
+	img: center;
+}
+body{
+	width: 80%;
+	margin: 0 auto; 
+	font-family: "helvetica";
+	padding-left: 50px; 
+	padding-right: 50px; 
+
+}
+p{
+	text-align: center;
+}

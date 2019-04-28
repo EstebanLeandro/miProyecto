@@ -1,0 +1,25 @@
+body{
+	text-align: center;
+	background: url(../img/q.jpg); 
+}
+p{
+    color: withe;
+	font-size: 50px;
+
+}
+img{
+	width: 500 px;
+	height: 400;
+	border-radius: 60px 60px 60px 60px; 
+}
+#boton{
+	background: red;
+	border: none;
+	color: withe;
+	width: 100px;
+	height: 40px;
+}
+Tuemail{
+	width: 35px;
+	height: 40px;
+}

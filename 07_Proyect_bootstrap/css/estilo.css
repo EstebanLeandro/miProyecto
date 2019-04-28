@@ -1,0 +1,9 @@
+#menu{
+	margin-top: 3em; 
+}
+button{
+	background: blue;
+	width: 70px;
+	height:  30px;
+	border: black;
+}	

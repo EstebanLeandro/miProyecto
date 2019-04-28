@@ -1,0 +1,613 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"c",
+				"css"
+			],
+			[
+				"si",
+				"sin\tmethod"
+			],
+			[
+				"fun",
+				"function\tkeyword"
+			],
+			[
+				"get",
+				"getElementById\tmethod"
+			],
+			[
+				"do",
+				"document\tvar"
+			],
+			[
+				"m",
+				"menu\tdirectory"
+			],
+			[
+				"tut",
+				"tutor.module\tscript"
+			],
+			[
+				"tu",
+				"tutor.module\tscript"
+			],
+			[
+				"t",
+				"tutor\tdirectory"
+			],
+			[
+				"Ma",
+				"MainPageModule\talias"
+			],
+			[
+				"ma",
+				"main-page\tdirectory"
+			],
+			[
+				"me",
+				"menu\tdirectory"
+			],
+			[
+				"impor",
+				"import\tkeyword"
+			],
+			[
+				"cl",
+				"cl\tconsole.log"
+			],
+			[
+				"r",
+				"rslt"
+			],
+			[
+				"re",
+				"recuperaDatos"
+			],
+			[
+				"j",
+				"js"
+			],
+			[
+				"padi",
+				"padding-left\tproperty"
+			],
+			[
+				"wi",
+				"font-weight\tproperty"
+			],
+			[
+				"with",
+				"outline-width\tproperty"
+			],
+			[
+				"i",
+				"informes"
+			],
+			[
+				"gu",
+				"Guairá"
+			],
+			[
+				"Sa",
+				"Salto"
+			],
+			[
+				"g",
+				"Guairá"
+			],
+			[
+				"de",
+				"del"
+			],
+			[
+				"G",
+				"Guairá"
+			],
+			[
+				"DE",
+				"del"
+			],
+			[
+				"S",
+				"Salto"
+			],
+			[
+				"margi",
+				"margin\tproperty"
+			],
+			[
+				"pr",
+				"prycts"
+			],
+			[
+				"h",
+				"hdlTemp"
+			],
+			[
+				"co",
+				"collapsible"
+			],
+			[
+				"mar",
+				"margin-top\tproperty"
+			],
+			[
+				"ove",
+				"overflow-y\tproperty"
+			],
+			[
+				"ba",
+				"background-position\tproperty"
+			],
+			[
+				"u",
+				"url()\tbackground"
+			],
+			[
+				"da",
+				"datos"
+			],
+			[
+				"bor",
+				"border\tproperty"
+			],
+			[
+				"li",
+				"line-height\tproperty"
+			],
+			[
+				"te",
+				"align-items\tproperty"
+			],
+			[
+				"fon",
+				"font-stretch\tproperty"
+			],
+			[
+				"whi",
+				"width\tproperty"
+			],
+			[
+				"pro",
+				"programación"
+			],
+			[
+				"im",
+				"img"
+			],
+			[
+				"z",
+				"z-index\tproperty"
+			],
+			[
+				"op",
+				"opacity\tproperty"
+			],
+			[
+				"grid-",
+				"grid-template-columns\tproperty"
+			],
+			[
+				"valor",
+				"valor2"
+			],
+			[
+				"border-",
+				"border-radius\tproperty"
+			],
+			[
+				"bac",
+				"background\tproperty"
+			],
+			[
+				"ac",
+				"actualizado"
+			],
+			[
+				"com",
+				"completado"
+			],
+			[
+				"gar",
+				"guardarDB"
+			],
+			[
+				"des",
+				"descripcion"
+			],
+			[
+				"for",
+				"for\tfor (…) {…}"
+			],
+			[
+				"por",
+				"porHacer"
+			],
+			[
+				"arg",
+				"argv"
+			],
+			[
+				"ar",
+				"argv"
+			],
+			[
+				"es",
+				"else"
+			],
+			[
+				"cre",
+				"crearArchivo"
+			],
+			[
+				"onMo",
+				"onmouseover\tAttr"
+			],
+			[
+				"backgro",
+				"background-repeat\tproperty"
+			],
+			[
+				"pa",
+				"padding-top\tproperty"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"bo",
+				"border\tproperty"
+			],
+			[
+				"st",
+				"style"
+			],
+			[
+				"onM",
+				"onmouseover\tAttr"
+			],
+			[
+				"fle",
+				"flex-wrap\tproperty"
+			],
+			[
+				"bl",
+				"block\tdisplay"
+			],
+			[
+				"f",
+				"inline-flex\tdisplay"
+			],
+			[
+				"mari",
+				"margin-top\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"INST",
+				"Package Control: Install Package"
+			],
+			[
+				"REMO",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/taller3/07_Proyect_bootstrap/Esteban_Castillo_1aP.sublime-workspace",
+		"/C/taller3/practica_css/index.html",
+		"/C/taller3/07_Proyect_bootstrap/index.html",
+		"/C/taller3/practica_css/css/estilo.css",
+		"/C/taller3/practica_css/js/img.jpg",
+		"/C/taller3/Ejercicio-2-05/CSS/estilo.css",
+		"/C/taller3/Ejercicio-2-05/imag.jpg",
+		"/C/taller3/practica_css/css/index.html",
+		"/C/taller3/Ejercicio-2-05/index.html",
+		"/C/taller3/practica_css/estilo.css",
+		"/C/taller3/02-html/img/im.jpg",
+		"/C/taller3/07_Proyect_bootstrap/css/estilo.css",
+		"/C/taller3/06_FundamentosJavaScript/index.html",
+		"/C/taller3/02-html/index.html",
+		"/C/taller3/04-intro-css/CSS/estilo.css",
+		"/C/taller3/04-intro-css/index.html",
+		"/C/taller3/06_FundamentosJavaScript/js/app.js",
+		"/C/taller3/07_Proyect_bootstrap/css/bootstrap.min.css",
+		"/C/taller3/07_Proyect_bootstrap/js/jquery-3.3.1.min.js",
+		"/C/taller3/07_Proyect_bootstrap/fonts/glyphicons-halflings-regular.svg",
+		"/C/taller3/04-intro-css/CSS/img",
+		"/C/taller3/Ejercicio-2-05/img/imag.jpg",
+		"/C/taller3/07_Proyect_bootstrap/estilo.css",
+		"/C/taller3/07_Proyect_bootstrap/estilo",
+		"/C/taller3/Ejercicio-2-05/CSS/app.js",
+		"/C/taller3/04-intro-css/ccs/indet.html",
+		"/C/taller3/04-intro-css/CSS/indet.html",
+		"/D/workspace/cursoGit/tarea_2/my_calculator_2/calculator.html",
+		"/C/Users/Investigador_01/Desktop/ejemplo_print.html",
+		"/D/workspace/cursoGit/tarea_1/my_calculator/calculator.html",
+		"/D/workspace/cursoGit/tarea_1/comandos_utilizados.txt",
+		"/C/xampp/htdocs/plantillas-html/pryct_prbd/index.html",
+		"/C/xampp/htdocs/plantillas-html/pryct_prbd/data/data.json",
+		"/D/workspace/pruebamodule/src/app/menu/main-menu/main-menu.component.html",
+		"/D/workspace/pruebamodule/src/app/menu/menu.module.ts",
+		"/Z/Academica/Coordinación/Correo.txt",
+		"/D/workspace/pruebamodule/src/app/app.module.ts",
+		"/D/workspace/pruebamodule/src/app/main-page/main-page.module.ts",
+		"/D/workspace/pruebamodule/src/app/app-routing.module.ts",
+		"/D/workspace/pruebamodule/src/app/menu/main-menu/main-menu.component.ts",
+		"/D/workspace/pruebamodule/src/app/app.component.html",
+		"/D/workspace/pruebamodule/src/app/app.component.ts",
+		"/D/workspace/pruebamodule/src/app/tutor/tutor.module.ts",
+		"/D/workspace/pruebamodule/src/app/tutor/tut-form/tut-form.component.ts",
+		"/C/Users/Investigador_01/Desktop/Auto Backup for MySQL Professional Edition 3.2/CRACK/info.txt",
+		"/D/backup/DirInves/backup_date.txt",
+		"/C/xampp/htdocs/plantillas-html/nfrm_prbd/index.html",
+		"/C/xampp/htdocs/plantillas-html/nfrm_prbd/js/script.js",
+		"/D/backup/perso/prgrms/Camtasia Studio 8 full Español/Paquete de Idioma (Español)+Serial Camtasia 8/Serial Camtasia 8 Full.txt",
+		"/C/xampp/htdocs/plantillas-html/nfrm_prbd/data/data.json",
+		"/C/Users/Investigador_01/Desktop/anotaciones.txt",
+		"/C/xampp/htdocs/plantillas-html/nfrm_prbd/ftpsync.settings",
+		"/C/xampp/htdocs/plantillas-html/nfrm_prbd/data/ftpsync.settings",
+		"/C/xampp/htdocs/plantillas-html/nfrm_prbd/css/style.css",
+		"/C/Users/Investigador_01/Desktop/presentacion/reproductorVideo.html",
+		"/C/Users/Investigador_01/Desktop/reproductorVideo.html",
+		"/C/Users/Investigador_01/Desktop/Nuevo documento de texto.html",
+		"/Z/Perso/David/plantillas-html/pruebas.html",
+		"/C/Users/Investigador_01/AppData/Roaming/xmhgec/vmbjheuyd.js",
+		"/Z/Perso/David/plantillas-html/nfrm_prbd/js/script.js",
+		"/Z/Perso/David/plantillas-html/nfrm_prbd/index.html",
+		"/Z/Perso/David/plantillas-html/noticia.html",
+		"/Z/Perso/David/plantillas-html/nfrm_prbd/data/data.json",
+		"/Z/Perso/David/plantillas-html/pryct_prbd/index.html",
+		"/Z/Perso/David/plantillas-html/lineas/lineas.json",
+		"/Z/Perso/David/plantillas-html/pryct_prbd/js/script.js",
+		"/Z/Perso/David/plantillas-html/pryct_prbd/data/data.json",
+		"/Z/Perso/David/plantillas-html/pryct_prbd/css/style.css",
+		"/Z/Perso/David/plantillas-html/back.html",
+		"/Z/Perso/David/plantillas-html/lineas/lineas.html",
+		"/Z/Perso/David/plantillas-html/pryct_prbd/info-apro.html",
+		"/Z/Perso/David/plantillas-html/lineas/admin.html",
+		"/Z/Perso/David/plantillas-html/ideas.txt",
+		"/Z/Perso/David/perso.txt.asc",
+		"/C/Users/Investigador_01/AppData/Local/Temp/fz3temp-2/index.php",
+		"/C/xampp/htdocs/ocs-2.3.6/b.sql",
+		"/D/dump.db",
+		"/C/Users/Investigador_01/Desktop/prueba.html",
+		"/C/Users/Investigador_01/Desktop/perso.txt",
+		"/C/Users/Investigador_01/Desktop/perso.txt.asc",
+		"/C/Users/Investigador_01/Desktop/perso.txt.gpg",
+		"/C/Users/Investigador_01/Desktop/peros.pgp",
+		"/C/Users/Investigador_01/Desktop/perso.enc",
+		"/C/Users/Investigador_01/Desktop/key.sign",
+		"/Z/Perso/David/plantillas-html/lineas.json",
+		"/Z/Perso/David/plantillas-html/lineas.html",
+		"/Z/Perso/David/plantillas-html/info-apro.html",
+		"/Z/Perso/David/plantillas-html/topicos.txt",
+		"/C/sublimeText/Data/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/C/sublimeText/Data/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc.defaults.json",
+		"/C/Users/Investigador_01/Documents/tareas/Caballo (7).java",
+		"/C/Users/Investigador_01/Documents/tareas/pruebaCaballo (8).java",
+		"/C/Users/Investigador_01/Documents/tareas/PruebaCaballo (7).java",
+		"/C/Users/Investigador_01/Documents/tareas/CaballoSimple (1).java",
+		"/C/Users/Investigador_01/Documents/tareas/PruebaCaballo (6).java",
+		"/C/Users/Investigador_01/Documents/tareas/Caballo (6).java",
+		"/C/Users/Investigador_01/Documents/tareas/Caballo (5).java",
+		"/C/Users/Investigador_01/Documents/tareas/PruebaCaballo (5).java",
+		"/C/Users/Investigador_01/Documents/tareas/PruebaCaballo (4).java",
+		"/C/Users/Investigador_01/Documents/tareas/Caballo (4).java",
+		"/C/Users/Investigador_01/Documents/tareas/Caballo (3).java",
+		"/C/Users/Investigador_01/Documents/tareas/Pruebacaballo (3).java",
+		"/C/Users/Investigador_01/Documents/tareas/PruebaCaballo (2).java",
+		"/C/Users/Investigador_01/Documents/tareas/miCaballo.java",
+		"/C/Users/Investigador_01/Documents/tareas/pruebamicaballo.java",
+		"/C/Users/Investigador_01/Documents/tareas/CaballoSimple.java",
+		"/C/Users/Investigador_01/Documents/tareas/PruebaCaballo (1).java",
+		"/C/Users/Investigador_01/Documents/tareas/Caballo (2).java",
+		"/D/cursonode/05-clima-mundo/app.js",
+		"/D/cursonode/05-clima-mundo/apiKey",
+		"/D/cursonode/05-clima-mundo/index.html",
+		"/C/Users/Investigador_01/Documents/tareas/leo (1).java",
+		"/C/Users/Investigador_01/Documents/tareas/leo.java",
+		"/C/Users/Investigador_01/Documents/tareas/pruebaCaballo.java",
+		"/C/Users/Investigador_01/Documents/tareas/caballoTest.java",
+		"/C/Users/Investigador_01/Documents/tareas/Caballo.java",
+		"/C/Users/Investigador_01/Documents/tareas/caballo (1).java",
+		"/D/cursonode/04-por-hacer/db/data.json",
+		"/D/cursonode/04-por-hacer/app.js",
+		"/D/cursonode/04-por-hacer/configs/yargs.js",
+		"/D/cursonode/04-por-hacer/por-hacer/por-hacer.js",
+		"/D/cursonode/03-bases-node/app.js",
+		"/D/cursonode/03-bases-node/multiplicar/multiplicar.js",
+		"/D/cursonode/03-bases-node/configs/yargs.js",
+		"/D/cursonode/03-bases-node/tablas/tabla-11.txt",
+		"/D/cursonode/03-bases-node/config",
+		"/D/cursonode/03-bases-node/app_old.js",
+		"/D/cursonode/03-bases-node/package.json"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Esteban_Castillo_1aP.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 238.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

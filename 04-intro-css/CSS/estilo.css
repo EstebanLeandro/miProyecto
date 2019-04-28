@@ -1,0 +1,34 @@
+h1{
+        text-shadow: 5px 2px 5px red, 1px 2px 3px yellow; 
+        text-align: center;
+        font-size: 5mn;
+ }
+
+/*
+propiedad backgraund = fondo 
+propiedad color =color de texto
+*/
+body{
+	background: black;
+	color: white;
+	/*el borde necesita tres parámetros */
+	/*el grosor (px), el tipo y el color* /
+	border: 5px solid white;
+	border-top : 8px solid pink;
+	border: 7px solid dotted;
+
+
+    /*Los margenes sirven para dar espacio exterior a los elementos*/
+    margin: 0px 50px 0px 100px;
+
+}
+
+/* 
+backgraund tambien sirve para imagenes 
+backgraund-size sirve para ajustar el fondo a la pantalla
+*/
+
+body{
+	background: url("../imag/ii.jpg"); 
+	background-size:
+}
